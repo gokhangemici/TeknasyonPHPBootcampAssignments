@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Database\\": "database/",
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "mongodb/mongodb": "^1.9"
+    }
+}
